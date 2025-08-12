@@ -1,2 +1,3 @@
-# website-1
-This is a sample website template
+# Task-6
+
+link - https://mgelevatelabsinternship.github.io/task-6/
